@@ -1,0 +1,13 @@
+html, body {
+  font-size:14px;
+  line-height:20px;
+	font-family: "Arial","Helvetica", "Lucida Grande";
+	color:#ccc;
+  height:100%;
+  position:relative; }
+  #headerContainer {
+  position:absolute;
+  left:0px;
+  top:340px; 
+  width:890px;
+  height:100px;}
